@@ -1,3 +1,3 @@
-a=1
-a , b = a+1 , a+1
-print(b)
+a = [1,2,3]
+a.insert(0,5)
+print(a)
